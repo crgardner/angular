@@ -1,0 +1,38 @@
+{
+  "ecmaVersion": 5,
+  "ide": {
+    "scriptPaths": [
+      {
+        "type": "FOLDER",
+        "path": "test"
+      }
+    ]
+  },
+  "plugins": {
+    "guess-types": {
+      
+    },
+    "outline": {
+      
+    },
+    "node": {
+      
+    },
+    "jasmine": {
+      
+    },
+    "angular": {
+      
+    },
+    "grunt": {
+      
+    },
+    "bootstrap": {
+      
+    }
+  },
+  "libs": [
+    "browser",
+    "jquery"
+  ]
+}
